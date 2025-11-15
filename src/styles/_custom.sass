@@ -87,6 +87,37 @@ figcaption
 .tabla-b table caption
   font-weight: normal !important
 
+.cursor-pointer.crd_hover_txt
+  cursor: pointer
+.cursor-pointer.crd_hover_txt
+  cursor: pointer
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  border-radius: 20px;
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+      background-color: #BE79CA
+      background-repeat: no-repeat
+      background-size: cover
+      h4 
+        color: $color-sistema-texto
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: #6E3DC6
+    h4
+      color: #FFF
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
 /**************************************************************/
 /***CUSTOM STYLES***/
 /**************************************************************/
@@ -120,11 +151,13 @@ figcaption
     background-color: rgba(232, 232, 232, 0.4)
   &-5
     background-color: #fff !important
+  &-6
+    background-color: #6E3DC6 
   
 
 .br
   &-1
-    border-radius: 10px !important
+    border-radius: 15px !important
 
 .m-cus
   &-1
@@ -172,7 +205,9 @@ figcaption
   .hcard
     &-1
       height: auto !important
-  
+  .p-cus
+    &-2
+      padding: 2rem !important
 //// TABLET MINI 768--------------------------------------
 @media screen and (max-width: $bp-min-md)
   .mb-cus
@@ -189,3 +224,6 @@ figcaption
   .hcard
     &-1
       height: auto !important
+  .p-cus
+    &-2
+      padding: 2rem !important
