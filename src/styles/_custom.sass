@@ -45,8 +45,42 @@
     background-color: $color-primario !important
 figcaption 
     font-weight: normal !important
+.circl-arrow .slyder-f__btn i
+  font-size: 1.2rem
+  background-color: $color-acento-botones
+  height: 46px
+  width: 46px
+  padding: 5px
+  border-radius: 500px
+  display: flex
+  justify-content: center
+  align-items: center
 
-
+.tabs-a__tab
+    background-color: $color-acento-contenido
+    color: $white
+.slyder-a__btn--sigt, .slyder-a__btn--atrs 
+  background-color: $color-acento-botones
+  border: 0
+.slyder-a__bullets__item 
+    background-color: #ABA5DA
+    border: 0
+.slyder-a__bullets__item--active 
+    background-color: #6E3DC6;
+    border-color: #6E3DC6
+.cajon.color-acento-contenido
+    background-color: #E2D8F4
+.acordion__accion__btn--a
+  background-color: #BE79CA
+.acordion .tarjeta--azul
+  background-color: #6E3DC6
+.acordion .tarjeta.tarjeta--azul.acordion__activo
+  background-color: #F2E4F5
+  h3
+    color: $color-sistema-texto
+.acordion__titulo
+  h3
+    color: #fff
 /**************************************************************/
 /***CUSTOM STYLES***/
 /**************************************************************/
@@ -57,23 +91,53 @@ figcaption
   background-repeat: no-repeat
   background-position: bottom
   margin-inline: -3.3rem
+.bg-fondo
+  &-1
+    background-image: url('../assets/curso/temas/bg/1.png') !important
+    background-size: cover !important
+    background-repeat: no-repeat !important
+    background-position: center !important
+  &-2
+    background-image: url('../assets/curso/temas/bg/3.png') !important
+    background-size: cover !important
+    background-repeat: no-repeat !important
+    background-position: center !important
+    border-radius: 15px !important
 .bg-color
   &-1
-    color: $color-primario !important
+    background-color: #D5EAFB
+  &-2
+    background-color: #E2D8F4
+  &-3
+    background-color: #59836B
+  
 
 .br
   &-1
     border-radius: 10px !important
 
-.ml-cus
+.m-cus
   &-1
-    margin-left: 30px !important
+    margin-right: 0px !important
+.p-cus
+  &-1
+    padding-right: 0px !important
       
 .hcard
   &-1
-    height: 750px !important
+    height: 230px !important
 
-      
+.titulo-cus
+  &-1
+    border-bottom: 6px solid $color-secundario!important
+    padding-bottom: 0.5rem !important     
+    width: fit-content !important 
+    border-radius: 3px !important
+  &-2
+    background-color: #fff
+    width: fit-content !important 
+
+
 
 /**************************************************************/
 /*Media Queries*/  
@@ -89,7 +153,11 @@ figcaption
   .mb-cus
     margin-bottom: 2em  !important  
   
-  
+  .bloque-texto-g 
+    padding-top: 50px !important;
+  .hcard
+    &-1
+      height: auto !important
   
 //// TABLET MINI 768--------------------------------------
 @media screen and (max-width: $bp-min-md)
@@ -102,3 +170,8 @@ figcaption
 @media screen and (max-width: $bp-min-sm)
   .mb-cus
     margin-bottom: 2em  !important
+  .bloque-texto-g 
+    padding-top: 20px !important;
+  .hcard
+    &-1
+      height: auto !important
