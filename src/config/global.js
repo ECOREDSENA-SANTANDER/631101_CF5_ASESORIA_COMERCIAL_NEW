@@ -83,11 +83,17 @@ export default {
         subMenu: [],
       },
       {
-        nombreRuta: 'tema7',
+        nombreRuta: 'tema6',
         numero: '6',
         titulo: 'Presentaciones',
         desarrolloContenidos: true,
-        subMenu: [],
+        subMenu: [
+          {
+            numero: '6.1',
+            titulo: 'Lenguaje corporal',
+            hash: 't_6_1',
+          },
+        ],
       },
     ],
     subMenu: [
