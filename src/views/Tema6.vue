@@ -29,7 +29,7 @@
           .col-lg-7.col-md-12.col-sm-12
             .row.align-items-center
               .col.mb-3.md-sm-0.align-items-center
-                h5.text-white.mb-4.mt-5 Ejemplo de una presentación
+                h5.text-white.mb-4.mt-5 16 años iPhone: Presentación primer iPhone 2007 por Steve Jobs (Subtítulos español)
                 p.text-white Como ejemplo, se tomará la presentación que Apple realizó del iPhone 7. Apple siempre ha logrado que sus presentaciones generen altas expectativas, manteniendo una estética profesional, limpia y atractiva, que rara vez decepciona.
                 p.text-white Para entender mejor lo que es una presentación efectiva, consulte el siguiente video.
                 .row.mb-5.me-3
@@ -118,8 +118,7 @@
         figure
           .video
             iframe(iframe width="560" height="315" src="https://www.youtube.com/embed/kVSt0II8ABE?si=AtWmo4ODjU_iSPnK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-          figcaption Video: Algunos #[em tips] importantes para un buen desarrollo de una presentación.
-      p.mb-5(data-aos="fade-right") Así mismo, en cuanto al lenguaje corporal, se recomienda lo siguiente:
+          figcaption Algunos #[em tips] importantes para un buen desarrollo de una presentación.
       Separador  
       #t_6_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
         h2 6.1  Lenguaje corporal
@@ -179,8 +178,8 @@
           .col-lg-7.col-md-12.col-sm-12
             .row.align-items-center
               .col.mb-3.md-sm-0.align-items-center
-                h5.text-white.mb-4.mt-5 Desarrollo de una presentación
-                p.text-white Para profundizar el tema se invita a consultar el video: “Hablando con Julis”.
+                h5.text-white.mb-4.mt-5 Hablando con Julis | Daniela Galindo | TEDxUniversidadPiloto
+                p.text-white Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente enlace.
                 .row.mb-5.me-3
                   .col-sm-auto
                     a.boton.color-acento-botones(href="https://youtu.be/0SjVNTAVdgs" target="_blank")

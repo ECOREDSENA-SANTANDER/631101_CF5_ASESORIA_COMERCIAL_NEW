@@ -80,9 +80,9 @@
                   .col-md-10.mb-4.mb-md-0
                     h4 1930
                     p.mb-4 Nacimiento de los supermercados en los EE.UU.
-                .row(titulo="1950-1960").align-items-center.justify-content-center
+                .row(titulo="1950 - 1960").align-items-center.justify-content-center
                   .col-md-10.mb-4.mb-md-0
-                    h4 1950-1960
+                    h4 1950 - 1960
                     p.mb-4 Se fortaleció el diseño en los escaparates.
                 .row(titulo="1970").align-items-center.justify-content-center
                   .col-md-10.mb-4.mb-md-0
@@ -100,8 +100,9 @@
                   .col-md-10.mb-4.mb-md-0
                     h4 Hoy
                     p.mb-4 Hoy día, se puede decir que el escaparate o exhibidor es el principal vendedor del producto en el punto de venta, porque logra que el cliente se detenga y le motive diferentes percepciones, haciendo que más personas ingresen al punto de venta.
+      p.mb-5(data-aos="fade-right") El #[em merchandising], como parte del proceso de comunicación, presenta la interacción entre dos elementos básicos, el punto de venta, la marca o el comerciante, con el cliente o comprador. Se ha convertido en una parte fundamental activa y dinámica de la estrategia de la empresa, en el que se tienen los siguientes alcances:    
       .cajon.color-acento-contenido.p-4.mb-5(data-aos="fade-right")
-        p.mb-0 El #[em merchandising], como parte del proceso de comunicación, presenta la interacción entre dos elementos básicos, el punto de venta, la marca o el comerciante, con el cliente o comprador. Se ha convertido en una parte fundamental activa y dinámica de la estrategia de la empresa, en el que se tienen los siguientes alcances:    
+        p.mb-0 El #[em merchandising] busca atraer, informar y persuadir al consumidor en el lugar de compra, convirtiendo la exhibición en una herramienta estratégica para fortalecer la relación entre producto, marca y cliente.
 
       p.mb-5(data-aos="fade-right") Los objetivos del #[em merchandising] se orientan a impulsar la comercialización de productos en el punto de venta, optimizando la experiencia del cliente y generando mayor rentabilidad para la empresa. Entre los principales se destacan: 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
@@ -207,7 +208,7 @@
                 span 5
               span.mb-0 
               Uso Uso adecuado del espacio en la estantería.
-      p.mb-3(data-aos="fade-right") Sin embargo, existe otro el elemento del #[i merchandising] que es importante destacar y es la relación entre el fabricante y distribuidor, en donde el distribuidor debe convertirse en un socio estratégico, con la capacidad de difundir las bondades del producto y de la marca para atraer más consumidores al punto de venta, elemento que se combina con la publicidad del producto.
+      p.mb-3(data-aos="fade-right") Sin embargo, existe otro elemento del #[i merchandising] que es importante destacar y es la relación entre el fabricante y distribuidor, en donde el distribuidor debe convertirse en un socio estratégico, con la capacidad de difundir las bondades del producto y de la marca para atraer más consumidores al punto de venta, elemento que se combina con la publicidad del producto.
       p.mb-5(data-aos="fade-right") De ahí que se encuentren otras funciones que cumple el #[i merchandising] a partir de los diferentes públicos, tal y como se aprecia a continuación.
       .row.justify-content-center.mb-5(data-aos="fade-right")
         .col-sm-12.col-lg-6.d-none.d-lg-block
@@ -217,7 +218,7 @@
           img(src='@/assets/curso/temas/bg/2.svg', alt='')
         .col
           h3.mb-0.titulo-icono-text.px-0.py-2 Clases y tipos de #[i Merchandising]
-      p.mb-3(data-aos="fade-right") No hay clasificaciones absolutas en el mundo del marketing, teniendo en cuenta que algunos autores y expertos lo clasifican de diferentes maneras. De acuerdo con el ciclo de vida del producto, existen cuatro clases de #[i merchandising]: de nacimiento, de ataque, de mantenimiento y de defensa; cada uno conlleva unas actividades relacionadas con el producto, así:
+      p.mb-3(data-aos="fade-right") No hay clasificaciones absolutas en el mundo del #[em marketing], teniendo en cuenta que algunos autores y expertos lo clasifican de diferentes maneras. De acuerdo con el ciclo de vida del producto, existen cuatro clases de #[i merchandising]: de nacimiento, de ataque, de mantenimiento y de defensa; cada uno conlleva unas actividades relacionadas con el producto, así:
       p.mb-5(data-aos="fade-right") El #[i merchandising] como herramienta estratégica dentro del ámbito comercial, se compone de dos enfoques principales: #[i merchandising] visual y #[i merchandising] de gestión, con lo cual, se busca no solo captar la atención del cliente, sino también garantizar la rentabilidad y sostenibilidad del negocio.
 
 
@@ -289,7 +290,7 @@
           .row.justify-content-center.mb-0
             .col-sm-12.col-lg-8
               .titulo-sexto.color-secundario(data-aos="fade-right")
-                  p.mb-0 #[b Figura 2.] #[i Merchandising] visual
+                  p.mb-0 #[b Figura 3.] #[i Merchandising] visual
               figure.mb-0(data-aos="fade-right")
                   img.mb-3(src='@/assets/curso/temas/t4/10.svg', alt='La imagen presenta una estantería y sus diferentes zonas, en relación con el merchandising visual y su importancia en la ubicación de los productos para motivar la venta. Se identifican 3 zonas en diferentes colores, así: - Color violeta: zona caliente - ojos. Los productos que más se quieren vender. - Color amarillo: zona media - centro. Los productos nuevos. - Color azul: zona fría - suelo. Los productos de buena rotación, que el cliente tiene referenciados y no se necesitan mostrar.')
                   figcaption.mb-0 Nota. Tomado de Mundo constructor (2019)

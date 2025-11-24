@@ -151,15 +151,14 @@ export default {
     },
     {
       tema: 'Presentaciones',
-      referencia:
-        'Apple. (2016). Apple – september event 2016. [Video]. YouTube.',
+      referencia: 'Apple. (2016). Apple – september event 2016.Z',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=NS0txu_Kzl8',
     },
     {
       tema: 'Presentaciones',
       referencia:
-        'TEDx Talks. (2016). Hablando con Julis | Daniela Galindo | TEDxUniversidadPiloto. [Video]. YouTube.',
+        'TEDx Talks. (2016). Hablando con Julis | Daniela Galindo | TEDxUniversidadPiloto.Z',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=0SjVNTAVdgs',
     },
@@ -208,7 +207,7 @@ export default {
     {
       termino: 'PLV',
       significado:
-        'publicidad en el lugar de venta que engloba expositores, carteles, <i>displays</i> y otros elementos que sean portadores de un mensaje publicitario y estén colocados en un punto de venta. también se conoce como «pos <i>display</i>, abreviatura de la expresión en inglés <i>point of sale display</i>.',
+        'publicidad en el lugar de venta que engloba expositores, carteles, <i>displays</i> y otros elementos que sean portadores de un mensaje publicitario y estén colocados en un punto de venta. también se conoce como «POS <i>display</i>», abreviatura de la expresión en inglés <i>Point of Sale Display</i>.',
     },
     {
       termino: 'Puntos calientes',
@@ -249,8 +248,31 @@ export default {
   referencias: [
     {
       referencia:
+        'Fernández, R, M., y Pastor, J. (2007). Diccionario Below the Line. CEU.',
+    },
+    {
+      referencia:
+        'Kotler, P., Bowen, J., y Makens, J. (2008). Marketing para el turismo. Pearson Prentice Hall.',
+    },
+    {
+      referencia: 'Mundo constructor. (2019). Visual merchandising. [Gráfico].',
+    },
+    {
+      referencia:
+        'Palomares, R. B. (2009). Merchandising, teoría, práctica estrategia. Gestión 2000.',
+    },
+    {
+      referencia:
+        'Pérez López, L. M., Pérez, F., & Cristo, Y. (2018). Aplicación del merchandising de seducción y del merchandising visual en el Palenque de los congos reales de la empresa ARTEX Sucursal Sancti Spíritus. Revista Infociencia, 22(3), 1-12.',
+    },
+    {
+      referencia:
         'Pipe Drive. (s. f.). Presentaciones de ventas exitosas: plantillas, ejemplos e ideas.',
       link: 'https://www.pipedrive.com/es/blog/presentacion-ventas',
+    },
+    {
+      referencia:
+        'Real Academia Española. (2020). Diccionario de la lengua española.',
     },
     {
       referencia:
@@ -282,39 +304,13 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Jaime Alberto Pérez Posada',
-          cargo: 'Instructor',
+          nombre: 'Paolo Andrés Cantillo Largo',
+          cargo: 'Experto temático',
           centro: 'Centro de Comercio - Regional Antioquia',
         },
         {
-          nombre: 'Esperanza Cardona Grisales',
-          cargo: 'Instructor',
-          centro: 'Centro de Gestión Tecnológica de Servicios - Regional Valle',
-        },
-        {
-          nombre: 'Zvi Daniel Grosman',
-          cargo: 'Diseñador instruccional',
-          centro: 'Centro Agropecuario La Granja  - Regional Tolima',
-        },
-        {
-          nombre: 'Carolina Coca Salazar',
-          cargo: 'Revisora metodológica y pedagógica',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
-        },
-        {
-          nombre: 'Sandra Patricia Hoyos Sepúlveda',
-          cargo: 'Revisión y corrección de estilo',
-          centro:
-            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital ',
-        },
-        {
-          nombre: 'Diana Lizeth Lozada Díaz',
-          cargo: 'Diseñadora instruccional',
-          centro: 'Centro Agroturístico - Regional Santander',
-        },
-        {
           nombre: 'Sandra Paola Morales Páez',
-          cargo: 'Revisión Evaluador instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],

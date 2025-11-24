@@ -87,13 +87,13 @@
               ul.lista-ul--color.mb-0
                 li.d-flex
                   i.fas.fa-check-circle.icon-list
-                  p.mb-0 Catálogos y brochures.
+                  p.mb-0 Catálogos y #[i brochures].
                 li.d-flex
                   i.fas.fa-check-circle.icon-list
                   p.mb-0 Muestras físicas y demostraciones presenciales.
                 li.d-flex
                   i.fas.fa-check-circle.icon-list
-                  p.mb-0 Scripts de ventas y guiones telefónicos.
+                  p.mb-0 #[i Scripts] de ventas y guiones telefónicos.
             .tarjeta.bg-color-2.p-4(titulo="Digitales")
               ul.lista-ul--color.mb-0
                 li.d-flex
@@ -104,7 +104,7 @@
                   p.mb-0  Plataformas de comercio electrónico.
                 li.d-flex
                   i.fas.fa-check-circle.icon-list
-                  p.mb-0 Redes sociales (#[i Social Selling]) y campañas de marketing digital.
+                  p.mb-0 Redes sociales (#[i Social Selling]) y campañas de #[em marketing] digital.
                 li.d-flex
                   i.fas.fa-check-circle.icon-list
                   p.mb-0 Videollamadas y presentaciones virtuales.
@@ -126,10 +126,10 @@
                   p.mb-0 Programas de lealtad.
                 li.d-flex
                   i.fas.fa-check-circle.icon-list
-                  p.mb-0 Envío de newsletters personalizadas.
+                  p.mb-0 Envío de #[i newsletters] personalizadas.
                 li.d-flex
                   i.fas.fa-check-circle.icon-list
-                  p.mb-0 Seguimiento automatizado con herramientas de email marketing.
+                  p.mb-0 Seguimiento automatizado con herramientas de email #[em marketing].
 
         .col-sm-12.col-lg-5.d-none.d-lg-block
           img(src='@/assets/curso/temas/t1/9.png', alt='')
@@ -146,42 +146,42 @@
           :style="{'background-image': `url(${require('@/assets/curso/temas/t1/10.png')})`}"
         )
         .bloque-texto-g__texto.p-4.d-flex.flex-column
-          p.mb-3 Las herramientas comprenden el proceso de la venta, entendido como la secuencia ordenada desde la prospección hasta la posventa; las estrategias de ventas, que orientan la planificación y el logro de objetivos mediante la segmentación y la fidelización; y las técnicas de la venta, que aportan métodos como SPIN selling para guiar la interacción con el cliente. 
-          p.mb-0 A su vez, la venta consultiva enfatiza la identificación de necesidades y la propuesta de soluciones personalizadas, mientras que las clínicas de venta constituyen espacios de práctica y entrenamiento para fortalecer habilidades de negociación y comunicación.
-
+          p.mb-3 Las herramientas comprenden el #[b proceso de la venta], entendido como la secuencia ordenada desde la prospección hasta la posventa; las #[b estrategias de ventas], que orientan la planificación y el logro de objetivos mediante la segmentación y la fidelización; y las #[b técnicas de la venta], que aportan métodos como #[i SPIN selling] para guiar la interacción con el cliente. 
+          p.mb-3 A su vez, la venta consultiva enfatiza la identificación de necesidades y la propuesta de soluciones personalizadas, mientras que las clínicas de venta constituyen espacios de práctica y entrenamiento para fortalecer habilidades de negociación y comunicación.
+          p.mb-0 El manejo de objeciones resulta esencial para transformar dudas o resistencias en oportunidades que fortalezcan la confianza y faciliten el cierre exitoso de la venta.
       .tarjeta.bg-fondo-1.p-4.mb-5(data-aos="fade-right")
         SlyderA(tipo="b")
           .row.justify-content-center.mb-0.p-4
             .col-sm-12.col-lg-8
                 h4.mb-4 Proceso de la venta
-                p.mb-0 Se compone de una serie de etapas que permiten estructurar la relación con el cliente de manera ordenada y eficiente. Inicia con la prospección, donde se identifican potenciales compradores; continúa con la presentación y demostración del producto o servicio, enfocada en despertar el interés; avanza hacia la negociación y el cierre, donde se concretan acuerdos; y culmina con la posventa, que busca mantener la satisfacción del cliente y fomentar su fidelización. Este proceso no solo busca una transacción puntual, sino la construcción de una relación de confianza a largo plazo.
+                p.mb-0 Se compone de una serie de etapas que permiten estructurar la relación con el cliente de manera ordenada y eficiente. Inicia con la #[b prospección], donde se identifican potenciales compradores; continúa con la #[b presentación y demostración] del producto o servicio, enfocada en despertar el interés; avanza hacia la #[b negociación y el cierre], donde se concretan acuerdos; y culmina con la #[b posventa], que busca mantener la satisfacción del cliente y fomentar su fidelización. Este proceso no solo busca una transacción puntual, sino la construcción de una relación de confianza a largo plazo.
             .col-sm-12.col-lg-3.d-none.d-lg-block
               img(src='@/assets/curso/temas/t1/11.svg', alt='')
           .row.justify-content-center.mb-0.p-4
             .col-sm-12.col-lg-8
               h4.mb-4 Estrategias de ventas
-              p.mb-0 Constituyen los planes diseñados para alcanzar objetivos comerciales específicos. Incluyen la segmentación de mercados para identificar públicos objetivos, la definición de propuestas de valor diferenciadas que marquen ventaja competitiva, y la implementación de tácticas de fidelización para mantener clientes satisfechos y recurrentes. Una buena estrategia combina análisis del mercado, comprensión del comportamiento del consumidor y uso de recursos adecuados para generar posicionamiento sostenible.
+              p.mb-0 Constituyen los planes diseñados para alcanzar objetivos comerciales específicos. Incluyen la #[b segmentación de mercados] para identificar públicos objetivos, la #[b definición de propuestas de valor diferenciadas] que marquen ventaja competitiva, y la implementación de tácticas de #[b fidelización] para mantener clientes satisfechos y recurrentes. Una buena estrategia combina análisis del mercado, comprensión del comportamiento del consumidor y uso de recursos adecuados para generar posicionamiento sostenible.
             .col-sm-12.col-lg-3.d-none.d-lg-block
               img(src='@/assets/curso/temas/t1/12.png', alt='')
 
           .row.justify-content-center.mb-0.p-4
             .col-sm-12.col-lg-8
               h4.mb-4 Técnicas de la venta
-              p.mb-0 Se refieren a los métodos aplicados para orientar la interacción con el cliente de forma efectiva. Entre ellas, destaca el modelo SPIN selling, que emplea preguntas estratégicas en cuatro fases. Estas técnicas permiten estructurar el diálogo de manera consultiva, aumentando las posibilidades de éxito en ventas complejas.
+              p.mb-0 Se refieren a los métodos aplicados para orientar la interacción con el cliente de forma efectiva. Entre ellas, destaca el modelo #[b #[i SPIN selling]], que emplea preguntas estratégicas en cuatro fases. Estas técnicas permiten estructurar el diálogo de manera consultiva, aumentando las posibilidades de éxito en ventas complejas.
             .col-sm-12.col-lg-3.d-none.d-lg-block
               img(src='@/assets/curso/temas/t1/13.png', alt='')
 
           .row.justify-content-center.mb-0.p-4
             .col-sm-12.col-lg-8
               h4.mb-4 Venta consultiva
-              p.mb-0 Es un enfoque moderno en el que el vendedor actúa como asesor, interesado en comprender profundamente las necesidades del cliente. Más que ofrecer un producto, se busca diseñar una solución personalizada que resuelva problemas concretos o mejore la situación del comprador. Este tipo de venta requiere habilidades de escucha activa, empatía, análisis y comunicación, convirtiendo al cliente en el centro del proceso.
+              p.mb-0 Es un enfoque moderno en el que el vendedor actúa como asesor, interesado en comprender profundamente las necesidades del cliente. Más que ofrecer un producto, se busca diseñar una #[b solución personalizada] que resuelva problemas concretos o mejore la situación del comprador. Este tipo de venta requiere habilidades de escucha activa, empatía, análisis y comunicación, convirtiendo al cliente en el centro del proceso.
             .col-sm-12.col-lg-3.d-none.d-lg-block
               img(src='@/assets/curso/temas/t1/14.png', alt='')
 
           .row.justify-content-center.mb-0.p-4
             .col-sm-12.col-lg-8
               h4.mb-4 Clínicas de venta
-              p.mb-0 Son espacios de formación práctica que simulan situaciones reales de interacción comercial. En ellas, los participantes desarrollan y perfeccionan competencias como la persuasión, la comunicación efectiva, la argumentación de beneficios y la gestión de objeciones. Al replicar escenarios similares a los que enfrentan los vendedores en su día a día, estas clínicas se convierten en una herramienta didáctica clave para consolidar aprendizajes y aumentar la confianza del equipo comercial.
+              p.mb-0 Son espacios de formación práctica que simulan situaciones reales de interacción comercial. En ellas, los participantes desarrollan y perfeccionan competencias como la #[b persuasión], la #[b comunicación efectiva], la #[b argumentación de beneficios] y la #[b gestión de objeciones]. Al replicar escenarios similares a los que enfrentan los vendedores en su día a día, estas clínicas se convierten en una herramienta didáctica clave para consolidar aprendizajes y aumentar la confianza del equipo comercial.
             .col-sm-12.col-lg-3.d-none.d-lg-block
               img(src='@/assets/curso/temas/t1/15.png', alt='')
 
@@ -205,10 +205,11 @@
             img(src='@/assets/curso/temas/t1/17.svg', alt='')
         .tarjeta.bg-color-2.p-3(x="23.5%" y="36%" numero="1")
           p.mb-0 #[b Situación:] estas preguntas buscan reunir datos, hechos e información relevante sobre la situación actual del cliente. Es fundamental indagar sobre el cliente, su negocio y sus operaciones, centrándose en su necesidad. Se deben evitar preguntas obvias y aquellas cuya respuesta ya está disponible en otras fuentes. Es importante hacer preguntas relevantes y con un propósito claro, evitando preguntar por preguntar.
-        .tarjeta.bg-color-2.p-3(x="47%" y="28%" numero="2")
+        
+        .tarjeta.bg-color-2.p-3(x="35%" y="88%" numero="2")
           p.mb-0 #[b Problema:] si la empresa no puede resolver un problema del cliente, no habrá venta posible. Identificar y abordar los problemas que se pueden solucionar permite aportar valor. Es crucial investigar cuáles son los problemas, dificultades e insatisfacciones del cliente. De esta manera, se descubrirán sus necesidades implícitas y cómo encaja la oferta de la empresa para resolverlas.
 
-        .tarjeta.bg-color-2.p-3(x="35%" y="88%" numero="3")
+        .tarjeta.bg-color-2.p-3(x="47%" y="28%" numero="3")
           p.mb-0 #[b Implicación:] estas preguntas toman un problema del cliente y exploran sus efectos o consecuencias. Ayudan al cliente a comprender la seriedad o urgencia del problema, amplificando su importancia en su mente. Se debe evitar proyectar escenarios apocalípticos, ya que esto podría deprimir o asustar al cliente. En cuanto el cliente comprenda las implicaciones del problema, es importante pasar a la siguiente fase de preguntas evitando demoras.
 
         .tarjeta.bg-color-2.p-3(x="58.5%" y="74%" numero="4")
@@ -226,19 +227,19 @@
           .tarjeta-numerada.color-secundario.p-5.hcard-1
             .tarjeta-numerada__numero
               .h2 1
-            h5.text-center Tomadores de órdenes internos o vendedores de pago inmediato. 
+            h5.text-center Tomadores de órdenes internos o vendedores de pago inmediato
             p.mb-0.text-center Aquellos que reciben el pago y entregan la mercancía. También aplica al telemercadeo que toma pedidos por teléfono. 
         .col-sm-12.col-lg-4.mb-cus
           .tarjeta-numerada.color-acento-contenido.p-5.hcard-1
             .tarjeta-numerada__numero
               .h2.text-white 2
-            h5.text-center Personal de entregas.
+            h5.text-center Personal de entregas
             p.mb-0.text-center Son aquellos que solo realizan la entrega del producto en el domicilio.
         .col-sm-12.col-lg-4.mb-cus
           .tarjeta-numerada.color-secundario.p-5.hcard-1
             .tarjeta-numerada__numero
               .h2 3
-            h5.text-center  Tomadores de órdenes externos.
+            h5.text-center  Tomadores de órdenes externos
             p.mb-0.text-center Aquellos vendedores que solo toman el pedido revisan los inventarios y sugieren la venta. 
       .row.justify-content-center.mb-5.align-items-center(data-aos="fade-right")
         .col-sm-12.col-lg-3.d-none.d-lg-block
@@ -373,7 +374,7 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-sm-12.col-lg-9
           .bg-fondo-2.py-3
-            p.mb-0.p-5 El comercio electrónico, o venta #[em online], hace uso del Internet y la #[em web] para realizar transacciones de solicitud y pago de negocios (Mejía, 2017, p. 24). Este tipo de venta permite a los negocios ofrecer sus productos y servicios a una audiencia global, facilitando la solicitud y el pago de manera rápida y segura. El comercio electrónico ha revolucionado la forma en que las empresas y los consumidores interactúan, proporcionando comodidad, eficiencia y una amplia variedad de opciones a un solo clic de distancia.
+            p.mb-0.p-5 El comercio electrónico, o venta #[em online], hace uso del Internet y la web para realizar transacciones de solicitud y pago de negocios (Mejía, 2017, p. 24). Este tipo de venta permite a los negocios ofrecer sus productos y servicios a una audiencia global, facilitando la solicitud y el pago de manera rápida y segura. El comercio electrónico ha revolucionado la forma en que las empresas y los consumidores interactúan, proporcionando comodidad, eficiencia y una amplia variedad de opciones a un solo clic de distancia.
         .col-sm-12.col-lg-3.d-none.d-lg-block
           img(src='@/assets/curso/temas/t1/23.svg', alt='')
       
@@ -383,7 +384,7 @@
         h2 1.3 Proceso de la venta
       
       p.mb-3(data-aos="fade-right") Tras segmentar el mercado, definir los clientes objetivo y establecer el posicionamiento, la empresa debe poner en práctica lo planificado en el plan de mercadeo. Vender no es un acto improvisado, sino un proceso estructurado que requiere estrategia, organización y preparación.
-      p.mb-3(data-aos="fade-right") Según Hair et al. (2010), el ciclo de la venta incluye fases como la prospección (identificación de clientes potenciales), el acercamiento (recolección de información y preparación), la entrevista (crear confianza, escuchar y detectar necesidades), el manejo de objeciones (resolver dudas con argumentos claros), el cierre (formalizar el acuerdo) y la posventa (seguimiento, soporte y fidelización). Cada etapa demanda habilidades específicas: conocer al cliente, generar empatía, superar obstáculos y ofrecer soluciones personalizadas. 
+      p.mb-3(data-aos="fade-right") Según Hair et al. (2010), el ciclo de la venta incluye fases como la #[b prospección] (identificación de clientes potenciales), el #[b acercamiento] (recolección de información y preparación), la #[b entrevista] (crear confianza, escuchar y detectar necesidades), el manejo de #[b objeciones] (resolver dudas con argumentos claros), el #[b cierre] (formalizar el acuerdo) y la #[b posventa] (seguimiento, soporte y fidelización). Cada etapa demanda habilidades específicas: conocer al cliente, generar empatía, superar obstáculos y ofrecer soluciones personalizadas. 
       p.mb-5(data-aos="fade-right") De este modo, el proceso de venta se convierte en una disciplina que asegura la satisfacción del cliente y la sostenibilidad del negocio. Como complemento se expone la figura 2.
       
       .row.justify-content-center.mb-0(data-aos="fade-right")

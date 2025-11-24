@@ -146,13 +146,13 @@
                 ul.lista-ul--color.mb-0
                   li.d-flex
                     i.fas.fa-check-circle.icon-list
-                    p.mb-0 #[b Cartón, papel o vinilo:] para afiches, displays o pendones.
+                    p.mb-0 #[b Cartón, papel o vinilo:] para afiches, #[i displays] o pendones.
                   li.d-flex
                     i.fas.fa-check-circle.icon-list
                     p.mb-0 #[b Plástico o acrílico:] para exhibidores resistentes y duraderos.
                   li.d-flex.mb-0
                     i.fas.fa-check-circle.icon-list
-                    p.mb-0 #[b Digitales:] pantallas interactivas o LED que transmiten mensajes dinámicos.
+                    p.mb-0 #[b Digitales:] pantallas interactivas o #[i LED] que transmiten mensajes dinámicos.
             .col-sm-12.col-lg-3.d-none.d-lg-block
               img(src='@/assets/curso/temas/t5/14.png', alt='')
 
@@ -172,7 +172,7 @@
             .col-sm-12.col-lg-3.d-none.d-lg-block
               img(src='@/assets/curso/temas/t5/15.png', alt='')
 
-      p.mb-5(data-aos="fade-right") La clasificación permite comprender que la publicidad en el punto de venta no es homogénea, sino que depende de cuánto tiempo se mantendrá, de qué materiales se construye y del propósito comunicativo que persigue.
+      p.mb-5(data-aos="fade-right") La clasificación permite comprender que la #[b publicidad en el punto de venta] no es homogénea, sino que depende de cuánto tiempo se mantendrá, de qué materiales se construye y del propósito comunicativo que persigue.
       .titulo-cus-1.mb-4(data-aos="fade-right")
         h3.mb-0 Claves para una publicidad efectiva en el punto de venta
       p.mb-5(data-aos="fade-right") La publicidad en el punto de venta requiere de estrategias claras que permitan captar la atención del consumidor y generar confianza en la compra. Por tal razón se presentan los aspectos esenciales a tener en cuenta, desde el análisis de la competencia hasta el diseño y la comunicación del producto, con el fin de lograr un impacto positivo sin saturar el espacio comercial.

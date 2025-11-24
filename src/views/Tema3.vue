@@ -23,31 +23,35 @@
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/temas/t3/2.png')
-          .tarjeta.color-secundario.p-3(x="15%" y="54%" numero="1")
-            p.mb-0 #[b 1. Emisor] 
-            p.mb-0 La persona que emite el mensaje.
-          .tarjeta.color-secundario.p-3(x="25%" y="54%" numero="2")
-            p.mb-0 #[b 2. Receptor] 
-            p.mb-0 La persona o personas que reciben el mensaje del emisor.
-          .tarjeta.color-secundario.p-3(x="35%" y="54%" numero="3")
-            p.mb-0 #[b 3. Mensaje] 
-            p.mb-0 Es la información, los datos que transmite el emisor para que lleguen al receptor de forma óptima.
-          .tarjeta.color-secundario.p-3(x="45%" y="54%" numero="4")
-            p.mb-0 #[b 4. Canal]  
-            p.mb-0 Es el medio por el que se transmite el mensaje. Pueden ser los diferentes medios de comunicación masiva, internet u otro medio.
-          .tarjeta.color-secundario.p-3(x="55%" y="54%" numero="5")
-            p.mb-0 #[b 5. Código]  
-            p.mb-0 Son el conjunto de símbolos y signos que configuran el mensaje.
-          .tarjeta.color-secundario.p-3(x="65%" y="54%" numero="6")
-            p.mb-0 #[b 6. Contexto]  
-            p.mb-0 Es el ambiente, lugar, tiempo desde donde se transmite el mensaje.
-          .tarjeta.color-secundario.p-3(x="75%" y="54%" numero="7")
-            p.mb-0 #[b 7. Retroalimentación]  
-            p.mb-0 Respuesta que da el receptor, indicando si comprendió o no el mensaje.
 
+
+          .tarjeta.color-secundario.p-3(x="15%" y="54%" numero="1")
+            p.mb-0 #[b 1. Emisor:]
+            p.mb-0.titulo-cus-4 Quien origina el mensaje (por ejemplo, el asesor comercial).
+          .tarjeta.color-secundario.p-3(x="25%" y="54%" numero="2")
+            p.mb-0 #[b 2. Receptor:]
+            p.mb-0.titulo-cus-4 Quien recibe e interpreta el mensaje (el cliente, el compañero de trabajo, el jefe).
+          .tarjeta.color-secundario.p-3(x="35%" y="54%" numero="3")
+            p.mb-0 #[b 3. Mensaje:]
+            p.mb-0.titulo-cus-4 La información que se quiere transmitir (una propuesta de ventas, una explicación de producto, una recomendación).
+          .tarjeta.color-secundario.p-3(x="45%" y="54%" numero="4")
+            p.mb-0 #[b 4. Canal:]
+            p.mb-0.titulo-cus-4 Medio a través del cual circula el mensaje (correo electrónico, llamada, reunión presencial, chat).
+          .tarjeta.color-secundario.p-3(x="55%" y="54%" numero="5")
+            p.mb-0 #[b 5. Código:]
+            p.mb-0.titulo-cus-4 Sistema de signos utilizados para expresarse (lenguaje verbal, gestos, imágenes, símbolos).
+          .tarjeta.color-secundario.p-3(x="65%" y="54%" numero="6")
+            p.mb-0 #[b 6. Contexto:]
+            p.mb-0.titulo-cus-4 Situación en la que ocurre la comunicación (reunión de ventas, capacitación, negociación).
+          .tarjeta.color-secundario.p-3(x="75%" y="54%" numero="7")
+            p.mb-0 #[b 7. Retroalimentación:]
+            p.mb-0.titulo-cus-4 Respuesta que da el receptor, indicando si comprendió o no el mensaje.
           .tarjeta.color-secundario.p-3(x="85%" y="54%" numero="8")
-            p.mb-0 #[b 8. Ruido]  
-            p.mb-0 Cualquier interferencia que distorsiona la comunicación (falta de atención, distracciones, problemas técnicos).
+            p.mb-0 #[b 8. Ruido:]
+            p.mb-0.titulo-cus-4 Cualquier interferencia que distorsiona la comunicación (falta de atención, distracciones, problemas técnicos).
+
+
+          
 
       .titulo-cus-1.mb-4(data-aos="fade-right")
         h3.mb-0 Herramientas de comunicación
@@ -112,7 +116,7 @@
               p.mb-0 #[b Formativa:] capacitar, instruir o educar a clientes y compañeros sobre el uso de un producto o servicio.
             li.d-flex
               i.fas.fa-check-circle.icon-list
-              p.mb-0 #[b De retroalimentación:] recibir opiniones, sugerencias o reclamos para mejorar el servicio
+              p.mb-0 #[b De retroalimentación:] recibir opiniones, sugerencias o reclamos para mejorar el servicio.
 
 
         .col-sm-12.col-lg-5.d-none.d-lg-block
@@ -128,6 +132,9 @@
       Separador  
       #t_3_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
         h2 3.1 Medios de comunicación
+
+      p.mb-2(data-aos="fade-right") Estos son instrumentos utilizados por la empresa o la organización para dar a conocer sus mensajes, información y su información publicitaria, entre otros. La empresa utiliza estos medios de manera masiva utilizando medios #[i off-line] u #[i on-line].
+      p.mb-5(data-aos="fade-right") Existen divisiones de medios de comunicación generadas por la gestión del mercadeo. Es la comunicación que llega a un gran número de personas en un periodo de tiempo determinado; y los medios son
       
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-6
@@ -160,7 +167,7 @@
                     p.mb-0  Plegables.
                   li.d-flex
                     i.fas.fa-check-circle
-                    p.mb-0  Material POP (Point of Purchase).
+                    p.mb-0  Material POP (#[i Point of Purchase]).
                   li.d-flex
                     i.fas.fa-check-circle
                     p.mb-0  Vallas fijas.
