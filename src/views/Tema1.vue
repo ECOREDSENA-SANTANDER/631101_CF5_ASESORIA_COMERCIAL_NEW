@@ -129,7 +129,7 @@
                   p.mb-0 Envío de #[i newsletters] personalizadas.
                 li.d-flex
                   i.fas.fa-check-circle.icon-list
-                  p.mb-0 Seguimiento automatizado con herramientas de email #[em marketing].
+                  p.mb-0 Seguimiento automatizado con herramientas de #[em email  marketing].
 
         .col-sm-12.col-lg-5.d-none.d-lg-block
           img(src='@/assets/curso/temas/t1/9.png', alt='')
