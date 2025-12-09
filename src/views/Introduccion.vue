@@ -22,8 +22,9 @@
       .col-lg-12
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/GPUPFqO-rMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video. Ventas y comunicación introducción
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/1LMQdo5irMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Video. Ventas, comunicación y merchandising
+
 
 </template>
 
