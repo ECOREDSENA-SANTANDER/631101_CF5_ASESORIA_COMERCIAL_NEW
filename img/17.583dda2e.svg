@@ -1,0 +1,26 @@
+<svg id="pista-3" xmlns="http://www.w3.org/2000/svg" width="84" height="84" viewBox="0 0 84 84">
+  <g id="Layer_2">
+    <g id="Grupo_1101962" data-name="Grupo 1101962">
+      <g id="Grupo_1101960" data-name="Grupo 1101960">
+        <g id="Grupo_1101958" data-name="Grupo 1101958" transform="translate(1.389 1.132)">
+          <circle id="Elipse_11829" data-name="Elipse 11829" cx="40.91" cy="40.91" r="40.91" transform="translate(0 0)" fill="#fff"/>
+        </g>
+        <g id="Grupo_1101959" data-name="Grupo 1101959">
+          <path id="Trazado_877341" data-name="Trazado 877341" d="M42,2.625A39.375,39.375,0,1,1,2.625,42,39.42,39.42,0,0,1,42,2.625M42,0A42,42,0,1,0,84,42,42,42,0,0,0,42,0Z"/>
+        </g>
+      </g>
+      <g id="Grupo_1101961" data-name="Grupo 1101961" transform="translate(5.825 5.825)">
+        <circle id="Elipse_11830" data-name="Elipse 11830" cx="36.175" cy="36.175" r="36.175" fill="#fc0"/>
+      </g>
+    </g>
+  </g>
+  <g id="Number-Icons_copy_6" transform="translate(32.557 22.252)">
+    <g id="Grupo_1101965" data-name="Grupo 1101965">
+      <g id="Grupo_1101964" data-name="Grupo 1101964">
+        <g id="Grupo_1101963" data-name="Grupo 1101963">
+          <path id="Trazado_877342" data-name="Trazado 877342" d="M25.464,43.635h4.59v1.977c0,4.84,1.7,6.409,3.978,6.409,2.25,0,3.659-1.227,3.659-4.5V43.225c0-3.294-1.046-5.112-4.067-5.112H31.146v-4.2h2.478c1.954,0,3.5-1.227,3.5-4.432V25.409c0-2.864-1.137-4.182-3.34-4.182-2.433,0-3.818,2.3-3.818,6.387v2.2H25.419a21.767,21.767,0,0,1-.614-4.636c0-3.932,2.863-8.228,8.977-8.228,6.612,0,9.34,3.113,9.34,8.59V27.93a8.223,8.223,0,0,1-4.772,7.885V36c3.023,1.022,5.341,3.181,5.341,8.273v2.567c0,7.158-4.432,9.613-9.66,9.613-5.933,0-9.138-3.023-9.138-8.25a20.958,20.958,0,0,1,.571-4.566Z" transform="translate(-24.805 -16.954)" fill="#231f20"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
