@@ -151,14 +151,14 @@ export default {
     },
     {
       tema: 'Presentaciones',
-      referencia: 'Apple. (2016). Apple – september event 2016.Z',
+      referencia: 'Apple. (2016). Apple – september event 2016.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=NS0txu_Kzl8',
     },
     {
       tema: 'Presentaciones',
       referencia:
-        'TEDx Talks. (2016). Hablando con Julis | Daniela Galindo | TEDxUniversidadPiloto.Z',
+        'TEDx Talks. (2016). Hablando con Julis | Daniela Galindo | TEDxUniversidadPiloto.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=0SjVNTAVdgs',
     },
@@ -177,12 +177,12 @@ export default {
     {
       termino: 'Escaparatismo',
       significado:
-        'arte de organizar y adornar un establecimiento para que resulten atrayentes al público, aplicando las técnicas de diseño y montaje de los escaparates. el escaparatismo se puede resumir en cuatro palabras: pare, mire, infórmese y compre.',
+        'arte de organizar y adornar un establecimiento para que resulten atrayentes al público, aplicando las técnicas de diseño y montaje de los escaparates. El escaparatismo se puede resumir en cuatro palabras: pare, mire, infórmese y compre.',
     },
     {
       termino: 'Imagen corporativa',
       significado:
-        'imagen generalmente aceptada de lo que una compañía “significa”. la creación de una imagen corporativa es un ejercicio en la dirección de la percepción.',
+        'imagen generalmente aceptada de lo que una compañía “significa”. La creación de una imagen corporativa es un ejercicio en la dirección de la percepción.',
     },
     {
       termino: 'Lineal',
@@ -197,7 +197,7 @@ export default {
     {
       termino: '<i>Merchandising</i> de gestión',
       significado:
-        'acción de poner un producto estratégicamente para su fácil acceso y venta. por ello hay que ajustar y gestionar correctamente el espacio.',
+        'acción de poner un producto estratégicamente para su fácil acceso y venta. Por ello hay que ajustar y gestionar correctamente el espacio.',
     },
     {
       termino: '<i>Merchandising</i> estratégico',
@@ -207,7 +207,7 @@ export default {
     {
       termino: 'PLV',
       significado:
-        'publicidad en el lugar de venta que engloba expositores, carteles, <i>displays</i> y otros elementos que sean portadores de un mensaje publicitario y estén colocados en un punto de venta. también se conoce como «POS <i>display</i>», abreviatura de la expresión en inglés <i>Point of Sale Display</i>.',
+        'publicidad en el lugar de venta que engloba expositores, carteles, <i>displays</i> y otros elementos que sean portadores de un mensaje publicitario y estén colocados en un punto de venta. También se conoce como «POS <i>display</i>», abreviatura de la expresión en inglés <i>Point of Sale Display</i>.',
     },
     {
       termino: 'Puntos calientes',
@@ -237,7 +237,7 @@ export default {
     {
       termino: 'Surtido',
       significado:
-        'conjunto de artículos que un establecimiento ofrece a la venta. se refiere a la variedad de artículos presentes en la sala de ventas, no a la cantidad de un producto en concreto.',
+        'conjunto de artículos que un establecimiento ofrece a la venta. Se refiere a la variedad de artículos presentes en la sala de ventas, no a la cantidad de un producto en concreto.',
     },
     {
       termino: 'Visual <i>merchandising</i>',
@@ -325,12 +325,12 @@ export default {
         },
         {
           nombre: 'Lizeth Karina Manchego Suarez',
-          cargo: 'Desarrollador <i>full-stack</i> Junior',
+          cargo: 'Desarrolladora <i>full-stack</i> Junior',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'María Alejandra Vera Briceño',
-          cargo: 'Animador y producción audiovisual',
+          cargo: 'Animadora y productora audiovisual',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -340,12 +340,12 @@ export default {
       autores: [
         {
           nombre: 'Yineth Ibette Gonzalez Quintero',
-          cargo: 'Validador de recursos educativos digitales',
+          cargo: 'Validadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Erika Fernanda Mejía Pinzón',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],

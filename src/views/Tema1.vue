@@ -309,7 +309,7 @@
       Separador
       #t_1_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
         h2 1.2 Modalidades de ventas
-      p.mb-5(data-aos="fade-right") Hacen referencia a las diferentes formas en que las empresas y vendedores pueden interactuar con sus clientes para ofrecer productos o servicios. Cada modalidad responde a contextos específicos, desde el contacto directo en un establecimiento hasta estrategias más dinámicas como la venta ambulante, la venta multinivel o la comercialización en línea. Conocer estas modalidades permite identificar las técnicas más adecuadas para captar, fidelizar y satisfacer al consumidor en distintos escenarios comerciales, tanto tradicionales como digitales..
+      p.mb-5(data-aos="fade-right") Hacen referencia a las diferentes formas en que las empresas y vendedores pueden interactuar con sus clientes para ofrecer productos o servicios. Cada modalidad responde a contextos específicos, desde el contacto directo en un establecimiento hasta estrategias más dinámicas como la venta ambulante, la venta multinivel o la comercialización en línea. Conocer estas modalidades permite identificar las técnicas más adecuadas para captar, fidelizar y satisfacer al consumidor en distintos escenarios comerciales, tanto tradicionales como digitales.
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
         .col-sm-12.col-lg-6
           AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")

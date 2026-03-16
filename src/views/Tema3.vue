@@ -83,7 +83,7 @@
                 img(src="@/assets/curso/temas/t3/5.png", alt="")
             .crd_hover_txt--body.text-center
               h4.mb-3 Audiovisuales
-              p.mb-0 Presentaciones, videos promocionales, podcasts, infografías.
+              p.mb-0 Presentaciones, videos promocionales, #[i podcasts], infografías.
         .col-xl-3.col-lg-3.col-md-6.col-11.mb-4.mb-xl-0
           .crd_hover_txt(@mouseover="mostrarIndicador = false")
             .crd_hover_txt--img
@@ -134,7 +134,7 @@
         h2 3.1 Medios de comunicación
 
       p.mb-2(data-aos="fade-right") Estos son instrumentos utilizados por la empresa o la organización para dar a conocer sus mensajes, información y su información publicitaria, entre otros. La empresa utiliza estos medios de manera masiva utilizando medios #[i off-line] u #[i on-line].
-      p.mb-5(data-aos="fade-right") Existen divisiones de medios de comunicación generadas por la gestión del mercadeo. Es la comunicación que llega a un gran número de personas en un periodo de tiempo determinado; y los medios son
+      p.mb-5(data-aos="fade-right") Existen divisiones de medios de comunicación generadas por la gestión del mercadeo. Es la comunicación que llega a un gran número de personas en un periodo de tiempo determinado; y los medios son:
       
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-6
